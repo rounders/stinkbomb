@@ -36,7 +36,7 @@
     "ember-disable-proxy-controllers": "^1.0.1",
     "ember-export-application-global": "^1.0.4",
     "ember-try": "~0.0.8",
-    "ember-world-flags": "0.2.5"
+    "ember-world-flags": "git+https://github.com/rounders/ember-world-flags.git#dd2d7fd4b1788b3c413d58319f6f40ff2c9fafda"
   },
   "keywords": [
     "ember-addon"
