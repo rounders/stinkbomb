@@ -7,6 +7,6 @@ module.exports = {
     var target = (parentAddon || app);
 
     this._super.included.apply(this, arguments);
-    taget.import('vendor/stinkbomb.css');
+    target.import('vendor/stinkbomb.css');
   }
 };
