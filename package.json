@@ -35,14 +35,15 @@
     "ember-disable-prototype-extensions": "^1.0.0",
     "ember-disable-proxy-controllers": "^1.0.1",
     "ember-export-application-global": "^1.0.4",
-    "ember-try": "~0.0.8",
-    "ember-world-flags": "git+https://github.com/rounders/ember-world-flags.git#dd2d7fd4b1788b3c413d58319f6f40ff2c9fafda"
+    "ember-try": "~0.0.8"
+
   },
   "keywords": [
     "ember-addon"
   ],
   "dependencies": {
-    "ember-cli-babel": "^5.1.5"
+    "ember-cli-babel": "^5.1.5",
+    "ember-world-flags": "git+https://github.com/rounders/ember-world-flags.git#dd2d7fd4b1788b3c413d58319f6f40ff2c9fafda"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
