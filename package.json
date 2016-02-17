@@ -43,7 +43,7 @@
   ],
   "dependencies": {
     "ember-cli-babel": "^5.1.5",
-    "ember-world-flags": "git+https://github.com/rounders/ember-world-flags.git#dd2d7fd4b1788b3c413d58319f6f40ff2c9fafda"
+    "ember-world-flags": "git+https://github.com/rounders/ember-world-flags.git#allow-nested-addon"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
